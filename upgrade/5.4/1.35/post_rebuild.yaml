@@ -1,0 +1,22 @@
+# vim: set ts=2 sw=2 sts=2 et:
+#
+# Data
+#
+# Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+# See https://www.x-cart.com/license-agreement.html for license details.
+
+XLite\Model\Config :
+  - name: terms_conditions_confirm_type
+    category: General
+    translations:
+      - code: en
+        option_comment: |
+          <b>Clickwrap agreement:</b>
+          <ul class="custom-disc">
+          <li>An "I accept the Terms & Conditions" checkbox with a link to the respective "Terms & Conditions" page is provided at checkout.</li>
+          <li>Before placing an order, users are required to actively give consent, such as by checking the box to confirm that they have read and agree to the terms of your agreements.</li>
+          </ul>
+          <b>Browsewrap agreement:</b>
+          <ul class="custom-disc">
+          <li>A link to the respective "Terms & Conditions" page is provided at checkout.</li>
+          <li>This type of agreement doesn’t require users to do anything but visit your website for the site to assume consent to your terms.</li>

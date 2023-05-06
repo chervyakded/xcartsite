@@ -1,0 +1,5 @@
+Version 5.4.1.37
+
+Fixes (1)
+ - [Bug] License warnings for major upgrades were displayed incorrectly. Fixed. #XCB-1822 #CDev-Core
+

@@ -1,0 +1,8 @@
+Version 5.4.1.28
+
+Fixes (4)
+2021-04-21 - [Bug] Abandoned carts were not removed from xc_orders. Fixed.  #XCB-446 #CDev-Core
+2021-04-21 - [Bug] After saving the parameters of a global attribute, the attribute popup was closed. Fixed. Now the popup remains shown. #XCB-439 #CDev-Core
+2021-04-05 - [Bug] Added the ability to search for users by Firstname and Lastname on the Users List page. #XCB-330 #CDev-Core
+2021-04-21 - [Bug] Error when attempting to issue a refund on an imported order. Fixed. #XCB-198 #CDev-Core #XC-OrdersImport
+

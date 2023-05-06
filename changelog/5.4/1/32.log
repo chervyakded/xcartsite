@@ -1,0 +1,19 @@
+Version 5.4.1.32
+
+Improvements (3)
+2021-08-23 - [Task] Adjusted the position of the "I accept the Terms & Conditions" checkbox. The checkbox is now displayed above "Place order". Added a warning message "You have to accept terms & conditions" (is shown if clicking "Place order" with the checkbox unchecked). #XCB-772 #CDev-Core #XC-FastLaneCheckout
+2021-09-07 - [Task] The xc5 utility now supports the ability to list all the keys and to remove a key. #XCB-399 #CDev-Core #XC-Service
+2021-09-01 - [Story] Fixed accessibility Google score for the Customer area. #ECOM-620 #CDev-Core #XC-FastLaneCheckout #XC-CrispWhiteSkin
+
+Fixes (10)
+2021-08-30 - [Bug] A saved Orders list filer in the Admin area did not work when the link to sort orders by "Amount" was clicked upon. #XCB-795 #CDev-Core
+2021-08-25 - [Bug] PayPal Credit was enabled only for the US. Fixed. Added AU, FR, GB, DE. #XCB-794 #CDev-Core #CDev-Paypal
+2021-09-06 - [Bug] Fatal error on the product details page with the setting "Price on request" enabled. Fixed. #XCB-789 #CDev-Core #QSL-CallForPrice
+2021-08-23 - [Bug] Fatal error on the storefront if searching for a product via a Make/Model/Year filter. Fixed. #XCB-749 #CDev-Core
+2021-08-30 - [Bug] Company state was shown incorrectly in notification emails. Fixed. #XCB-546 #CDev-Core
+2021-08-24 - [Bug] Error when importing a CSV file with categories. Fixed. #XCB-478 #CDev-Core
+2021-09-07 - [Bug] Export of categories. Duplicate entries and other inconsistencies in the CSV file. Fixed. #XCB-429 #CDev-Core
+2021-09-07 - [Bug] Adjusted the click area on the "Undo" icon on the order page in AOM. #XCB-410 #CDev-Core
+2021-08-30 - [Bug] Issues related to POST requests with Clean URLs enabled. Fixed. #XCB-378 #CDev-Core
+2021-08-30 - [Bug] doActionCallback(): incorrect status processing. Fixed.  #XCB-368 #CDev-Core
+

@@ -1,0 +1,6 @@
+Version 5.4.2.1
+
+Fixes (2)
+2021-10-25 - [Bug] Coupons. In the message about the inability to apply a coupon, the total amount mentioned was shown without a currency symbol. #XCB-806 #CDev-Coupons #QSL-ShopGate
+2021-09-10 - [Bug] Changed the messages about the inability to apply a coupon and the logics for displaying them. #XCB-382 #CDev-Coupons
+

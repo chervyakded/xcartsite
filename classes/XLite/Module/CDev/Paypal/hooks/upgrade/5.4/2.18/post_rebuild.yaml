@@ -1,0 +1,12 @@
+# vim: set ts=2 sw=2 sts=2 et:
+#
+# Data
+#
+# Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+# See https://www.x-cart.com/license-agreement.html for license details.
+
+XLite\Model\Payment\Method:
+  - service_name: PaypalCommercePlatform
+    settings:
+      - { name: disabledFundingMethods }
+      - { name: fundingMethods, value: '{"card":"Credit or debit cards","credit":"PayPal Credit","bancontact":"Bancontact","blik":"BLIK","eps":"eps","giropay":"giropay","ideal":"iDEAL","mercadopago":"Mercado Pago","mybank":"MyBank","p24":"Przelewy24","sepa":"SEPA-Lastschrift","sofort":"Sofort","venmo":"Venmo"}' }

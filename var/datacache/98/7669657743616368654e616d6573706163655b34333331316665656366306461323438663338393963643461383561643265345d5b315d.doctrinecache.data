@@ -1,0 +1,31 @@
+1681905729
+s:2186:"O:34:"XLite\Core\View\DTO\RenderedWidget":3:{s:7:"content";s:2076:"
+<div class="block block-block block-bestsellers">
+      <h3>Bestsellers</h3>
+    <div class="content">
+<div class="items-list items-list-products" data-widget-arguments="{&quot;sortBy&quot;:&quot;p.sales&quot;,&quot;sortOrder&quot;:&quot;desc&quot;,&quot;displayMode&quot;:&quot;grid&quot;}">
+  <script type="text/x-cart-data">
+{"widget_class":"XLite\\Module\\CDev\\Bestsellers\\View\\Bestsellers","widget_target":"","widget_params":[],"listenToHash":false,"listenToHashPrefix":"","replaceState":false,"replaceStatePrefix":""}
+</script>
+
+      
+  
+
+
+<div class="products">
+
+      <ul class="products-grid grid-list">
+              <li class="product-cell box-product">
+    
+          __dynamic_widget_placeholder__1272_YToyOntzOjU6ImNsYXNzIjtzOjI3OiJYTGl0ZVxWaWV3XFByb2R1Y3RcTGlzdEl0ZW0iO3M6NjoicGFyYW1zIjtzOjg3NzoiYToxNDp7czoxMDoiaXNFeHBvcnRlZCI7YjowO3M6ODoidGVtcGxhdGUiO3M6NDM6Iml0ZW1zX2xpc3QvcHJvZHVjdC9jZW50ZXIvZ3JpZC9wcm9kdWN0LnR3aWciO3M6ODoibWV0YWRhdGEiO2E6MDp7fXM6NToibW9kZXMiO2E6MDp7fXM6OToicHJvZHVjdElkIjtpOjQyO3M6OToiaWNvbldpZHRoIjtpOjI0MDtzOjEwOiJpY29uSGVpZ2h0IjtpOjI0MDtzOjE5OiJwcm9kdWN0Vmlld0xpc3ROYW1lIjtzOjMxOiJpdGVtc0xpc3QucHJvZHVjdC5ncmlkLmN1c3RvbWVyIjtzOjExOiJkaXNwbGF5TW9kZSI7czo0OiJncmlkIjtzOjIwOiJpdGVtTGlzdFdpZGdldFRhcmdldCI7czowOiIiO3M6MzA6InByb2R1Y3RTdG9ja0F2YWlsYWJpbGl0eVBvbGljeSI7Qzo1MDoiWExpdGVcTW9kZWxcUHJvZHVjdFxQcm9kdWN0U3RvY2tBdmFpbGFiaWxpdHlQb2xpY3kiOjEzMjp7YTo0OntzOjEwOiJwcm9kdWN0X2lkIjtpOjQyO3M6MTQ6InByb2R1Y3RfYW1vdW50IjtpOjEwMDA7czoyNToicHJvZHVjdF9pbnZlbnRvcnlfZW5hYmxlZCI7YjoxO3M6MjI6InByb2R1Y3RfZGVmYXVsdF9hbW91bnQiO2k6MTAwMDt9fXM6Mjc6InByb2R1Y3RFbnRpdHlWZXJzaW9uRmV0Y2hlciI7Qzo1NToiWExpdGVcQ29yZVxNb2RlbFxFbnRpdHlWZXJzaW9uXEJ1bGtFbnRpdHlWZXJzaW9uRmV0Y2hlciI6MTMyOnthOjU6e2k6MDtzOjE5OiJYTGl0ZVxNb2RlbFxQcm9kdWN0IjtpOjE7YToxOntpOjA7aTo0Mjt9aToyO3M6MTk6IlhMaXRlXE1vZGVsXFByb2R1Y3QiO2k6MztzOjExOiJ4Y19wcm9kdWN0cyI7aTo0O3M6MTA6InByb2R1Y3RfaWQiO319czoyMDoiaXRlbUxpc3RSZWFkYWJsZU5hbWUiO3M6MTE6IkJlc3RzZWxsZXJzIjtzOjE2OiJnYVBvc2l0aW9uT25MaXN0IjtpOjE7fSI7fQ==
+    
+        </li>
+                </ul>
+  
+</div>
+
+    
+  </div>
+</div>
+</div>
+";s:6:"assets";a:0:{}s:8:"metaTags";a:0:{}}";

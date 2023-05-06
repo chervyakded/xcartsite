@@ -1,0 +1,5 @@
+Version 5.4.0.17
+
+Fixes (1)
+2021-07-27 - [Bug] Inactive "Place order" button after attempting to buy the same product as a guest / anonymous user. Fixed. #XCB-602 #XC-FastLaneCheckout
+

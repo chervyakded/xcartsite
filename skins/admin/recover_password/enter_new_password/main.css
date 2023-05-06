@@ -1,0 +1,24 @@
+/* vim: set ts=2 sw=2 sts=2 et: */
+
+/**
+ * Force change password styles
+ *
+ * Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+ * See https://www.x-cart.com/license-agreement.html for license details.
+ */
+
+.change-password-form-container {
+    width: 450px;
+}
+
+.change-password-form-container legend {
+    display: none;
+}
+
+.change-password-form-container .sticky-panel.form-change-activation .box {
+    justify-content: center;
+}
+
+.force-change-password-section.ui-dialog-content h2 {
+    text-align: center;
+}

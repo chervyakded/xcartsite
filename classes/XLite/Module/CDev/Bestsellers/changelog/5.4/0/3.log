@@ -1,0 +1,8 @@
+Version 5.4.0.3
+
+Improvements (1)
+2021-09-30 - [Task] Renamed one of the settings for the Bestsellers add-on.  #XCB-465 #CDev-Bestsellers
+
+Fixes (1)
+2021-10-13 - [Bug] Products without categories were not shown in the Sale block. The sorting of products in promo blocks could change after making changes to categories. Fixed. #XCB-817 #CDev-Sale #CDev-Bestsellers #CDev-ProductAdvisor
+

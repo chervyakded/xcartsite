@@ -1,0 +1,5 @@
+Version 5.4.2.6
+
+Fixes (1)
+2021-11-10 - [Bug] Sale products did not show up on the "Sale" page. Fixed. #XCB-390 #CDev-Sale
+

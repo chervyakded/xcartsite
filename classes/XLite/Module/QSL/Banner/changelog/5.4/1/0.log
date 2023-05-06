@@ -1,0 +1,6 @@
+Version 5.4.1.0
+
+Improvements (2)
+2021-10-08 - [Story] Hide the “Banner Rotation“ tab on the “Front Page” page if "Banner System" is enabled. #ECOM-756 #CDev-Core #QSL-Banner
+2021-09-21 - [Story] Added new UI element "Action button" for banners #ECOM-711 #QSL-Banner
+

@@ -1,0 +1,5 @@
+Version 5.4.0.6
+
+Fixes (1)
+2021-06-28 - [Bug] Error if activating the add-on Banner System with the add-on SimpleCMS disabled. Fixed. Error if activating the add-on SimpleCMS with the add-on Banner System disabled. Fixed. #XCB-579 #QSL-Banner
+

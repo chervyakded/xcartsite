@@ -1,0 +1,5 @@
+Version 5.4.1.3
+
+Fixes (1)
+2021-08-03 - [Bug] An error saying "Can't subscribe you right now. Try later." was displayed on the storefront if trying to subscribe to newsletter in a store with a large number of Mailchimp subscriptions. Fixed. #XCB-545 #XC-MailChimp #XC-NewsletterSubscriptions
+

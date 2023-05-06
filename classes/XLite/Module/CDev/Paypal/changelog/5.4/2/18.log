@@ -1,0 +1,5 @@
+Version 5.4.2.18
+
+Fixes (1)
+2021-05-18 - [Bug] The store's overlay was layered on top of PayPal Checkout 3D secure popup. Fixed. #XCB-461 #CDev-Paypal
+

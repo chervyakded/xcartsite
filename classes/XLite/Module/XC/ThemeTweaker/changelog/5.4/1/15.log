@@ -1,0 +1,5 @@
+Version 5.4.1.15
+
+Fixes (1)
+2021-09-09 - [Bug] A template was shown as blank on the page admin.php?target=theme_tweaker_template&id=1 if disabled. Fixed. #XCB-701 #XC-ThemeTweaker
+

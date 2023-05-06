@@ -1,0 +1,5 @@
+Version 5.4.2.4
+
+Fixes (1)
+2021-07-08 - [Bug] Review request notification messages were always formed in the default language. Fixed. #XCB-562 #XC-Reviews
+

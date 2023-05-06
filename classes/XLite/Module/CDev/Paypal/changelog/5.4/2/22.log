@@ -1,0 +1,5 @@
+Version 5.4.2.22
+
+Improvements (1)
+2021-12-28 - [Story] Added a new setting: "Enable Venmo funding"; if an alternative method is chosen at checkout, it is shown on the invoice in the format of PayPal (Venmo / Sofort / etc.)  #ECOM-1077 #CDev-Paypal
+

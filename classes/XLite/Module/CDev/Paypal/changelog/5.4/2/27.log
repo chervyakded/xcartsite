@@ -1,0 +1,5 @@
+Version 5.4.2.27
+
+Fixes (1)
+2022-05-26 - [Bug] Missing 'save' button on PayPal button settings. Fixed. #XCB-1236 #CDev-Paypal
+

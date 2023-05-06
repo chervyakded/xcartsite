@@ -1,0 +1,12 @@
+Version 5.4.3.0
+
+Improvements (1)
+2021-09-17 - [Story] Make/Model/Year/Engine. "Select your vehicle" block - Improved the design, location, and behavior. #ECOM-587 #QSL-Make #XC-DelicatePinkSkin #XC-CrispWhiteSkin #XC-DewyGreenSkin #XC-SpaceVioletSkin #XC-SoftBlueSkin #XC-MarbleGreySkin #XC-ForestGreenSkin #XC-DarkSparkleSkin
+
+Fixes (5)
+2021-10-14 - [Bug] Issues displaying product image preview on product page. Fixed. #XCB-831 #XC-CrispWhiteSkin
+2021-10-12 - [Bug] Layout issues related to displaying the add to wishlist button. Made some adjustments for the button to comply with the style guide. #XCB-829 #QSL-MyWishlist #XC-DelicatePinkSkin #XC-CrispWhiteSkin #XC-DewyGreenSkin #XC-SpaceVioletSkin #XC-SoftBlueSkin #XC-ForestGreenSkin #XC-DarkSparkleSkin
+2021-09-09 - [Bug] Forgot password on checkout causes JS error. Fixed. #XCB-565 #XC-CrispWhiteSkin
+2021-10-14 - [Bug] Adjusted the dimensions of the Create new account popup for profile creation in the storefront area. #XCB-445 #XC-CrispWhiteSkin
+2021-10-18 - [Bug] Changed the font size of product name on product details page. #XCB-433 #CDev-Core #XC-CrispWhiteSkin
+

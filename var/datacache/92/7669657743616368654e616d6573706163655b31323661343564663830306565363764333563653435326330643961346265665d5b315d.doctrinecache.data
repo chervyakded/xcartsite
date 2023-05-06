@@ -1,0 +1,28 @@
+1682506927
+s:1234:"O:34:"XLite\Core\View\DTO\RenderedWidget":3:{s:7:"content";s:1124:"
+<div class="block block-block block-subcategories">
+    <div class="content">
+  <ul class="subcategory-view-icons subcategory-list grid-list clearfix">
+              <li>
+        <a href="beauty-and-health/cosmetics/">
+          <span class="subcategory-icon">
+            <img width="120" height="120" src="//xcartsite/var/images/category/120.120/beauty_2.jpg" alt="Cosmetics" data-max-width="120" data-max-height="120" srcset="http://xcartsite/var/images/category/240.240/beauty_2.jpg 2x" />
+
+          </span>
+          <span class="subcategory-name">Cosmetics</span>
+        </a>
+      </li>
+                  <li>
+        <a href="beauty-and-health/healthy-food-and-snacks/">
+          <span class="subcategory-icon">
+            <img width="120" height="120" src="//xcartsite/var/images/category/120.120/food_11.jpg" alt="Healthy Food &amp; Snacks" data-max-width="120" data-max-height="120" srcset="http://xcartsite/var/images/category/240.240/food_11.jpg 2x" />
+
+          </span>
+          <span class="subcategory-name">Healthy Food &amp; Snacks</span>
+        </a>
+      </li>
+              </ul>
+
+</div>
+</div>
+";s:6:"assets";a:0:{}s:8:"metaTags";a:0:{}}";

@@ -1,0 +1,31 @@
+1681905726
+s:2771:"O:34:"XLite\Core\View\DTO\RenderedWidget":3:{s:7:"content";s:2661:"
+<div class="block block-block block-sale-products">
+    <h3>Sale</h3>
+    <div class="content">
+<div class="items-list items-list-products sale-products" data-widget-arguments="{&quot;sortBy&quot;:&quot;percentValueCalculated&quot;,&quot;sortOrder&quot;:&quot;desc&quot;,&quot;displayMode&quot;:&quot;small_thumbnails&quot;}">
+  <script type="text/x-cart-data">
+{"widget_class":"XLite\\Module\\CDev\\Sale\\View\\SaleBlock","widget_target":"sale_products","widget_params":[],"listenToHash":false,"listenToHashPrefix":"","replaceState":false,"replaceStatePrefix":""}
+</script>
+
+      
+  
+
+
+<ul class="list-body-sidebar products products-sidebar products-sidebar-small-thumbnails">
+
+      <li class="product-cell box-product item first last">
+      __dynamic_widget_placeholder__1716_YToyOntzOjU6ImNsYXNzIjtzOjI3OiJYTGl0ZVxWaWV3XFByb2R1Y3RcTGlzdEl0ZW0iO3M6NjoicGFyYW1zIjtzOjEyMTE6ImE6MTQ6e3M6MTA6ImlzRXhwb3J0ZWQiO2I6MDtzOjg6InRlbXBsYXRlIjtzOjU2OiJpdGVtc19saXN0L3Byb2R1Y3Qvc2lkZWJhci9zbWFsbF90aHVtYm5haWxzL3Byb2R1Y3QudHdpZyI7czo4OiJtZXRhZGF0YSI7YTowOnt9czo1OiJtb2RlcyI7YTowOnt9czo5OiJwcm9kdWN0SWQiO2k6Mzg7czo5OiJpY29uV2lkdGgiO2k6MTIwO3M6MTA6Imljb25IZWlnaHQiO2k6MTIwO3M6MTk6InByb2R1Y3RWaWV3TGlzdE5hbWUiO3M6NDM6Iml0ZW1zTGlzdC5wcm9kdWN0LnNtYWxsX3RodW1ibmFpbHMuY3VzdG9tZXIiO3M6MTE6ImRpc3BsYXlNb2RlIjtzOjE2OiJzbWFsbF90aHVtYm5haWxzIjtzOjIwOiJpdGVtTGlzdFdpZGdldFRhcmdldCI7czoxMzoic2FsZV9wcm9kdWN0cyI7czozMDoicHJvZHVjdFN0b2NrQXZhaWxhYmlsaXR5UG9saWN5IjtDOjUwOiJYTGl0ZVxNb2RlbFxQcm9kdWN0XFByb2R1Y3RTdG9ja0F2YWlsYWJpbGl0eVBvbGljeSI6MTMwOnthOjQ6e3M6MTA6InByb2R1Y3RfaWQiO2k6Mzg7czoxNDoicHJvZHVjdF9hbW91bnQiO2k6MTA7czoyNToicHJvZHVjdF9pbnZlbnRvcnlfZW5hYmxlZCI7YjoxO3M6MjI6InByb2R1Y3RfZGVmYXVsdF9hbW91bnQiO2k6MTAwMDt9fXM6Mjc6InByb2R1Y3RFbnRpdHlWZXJzaW9uRmV0Y2hlciI7Qzo1NToiWExpdGVcQ29yZVxNb2RlbFxFbnRpdHlWZXJzaW9uXEJ1bGtFbnRpdHlWZXJzaW9uRmV0Y2hlciI6MTMyOnthOjU6e2k6MDtzOjE5OiJYTGl0ZVxNb2RlbFxQcm9kdWN0IjtpOjE7YToxOntpOjA7aTozODt9aToyO3M6MTk6IlhMaXRlXE1vZGVsXFByb2R1Y3QiO2k6MztzOjExOiJ4Y19wcm9kdWN0cyI7aTo0O3M6MTA6InByb2R1Y3RfaWQiO319czoyMDoiaXRlbUxpc3RSZWFkYWJsZU5hbWUiO086Mjg6IlhMaXRlXENvcmVcVHJhbnNsYXRpb25cTGFiZWwiOjU6e3M6MzU6IgBYTGl0ZVxDb3JlXFRyYW5zbGF0aW9uXExhYmVsAGxhYmVsIjtzOjQ6IlNhbGUiO3M6NDA6IgBYTGl0ZVxDb3JlXFRyYW5zbGF0aW9uXExhYmVsAHBhcmFtZXRlcnMiO2E6MDp7fXM6MzQ6IgBYTGl0ZVxDb3JlXFRyYW5zbGF0aW9uXExhYmVsAGNvZGUiO047czozNDoiAFhMaXRlXENvcmVcVHJhbnNsYXRpb25cTGFiZWwAdHlwZSI7TjtzOjUzOiIAWExpdGVcQ29yZVxUcmFuc2xhdGlvblxMYWJlbABFeGVjdXRlQ2FjaGVkVHJhaXRDYWNoZSI7YTowOnt9fXM6MTY6ImdhUG9zaXRpb25Pbkxpc3QiO2k6MTt9Ijt9
+    </li>
+  
+      <li class="more_link">
+      <a class="link" href="sale-products/">All products on sale</a>
+    </li>
+  
+</ul>
+
+    
+  </div>
+</div>
+</div>
+";s:6:"assets";a:0:{}s:8:"metaTags";a:0:{}}";

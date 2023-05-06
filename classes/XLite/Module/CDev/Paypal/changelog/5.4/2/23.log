@@ -1,0 +1,4 @@
+Version 5.4.2.23
+
+Improvements (1)
+2021-12-30 - [Task] If an alternative method is chosen at checkout, it is shown on the invoice instead of PayPal  #ECOM-1218 #CDev-Paypal

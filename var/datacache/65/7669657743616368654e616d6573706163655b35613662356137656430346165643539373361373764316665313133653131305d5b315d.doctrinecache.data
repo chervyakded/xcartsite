@@ -1,0 +1,33 @@
+1681905915
+s:652:"O:34:"XLite\Core\View\DTO\RenderedWidget":3:{s:7:"content";s:543:"<ul class="breadcrumb">
+      
+<li class="location-node">
+    <a href="" class="location-title home-link">Home</a>
+</li>
+
+      
+<li class="location-node">
+
+      <a href="fashion/" class="location-title"><span>Fashion</span></a>
+  
+  
+</li>
+
+      
+<li class="location-node">
+
+      <a href="fashion/clothing/" class="location-title"><span>Clothing</span></a>
+  
+  
+</li>
+
+      
+<li class="location-node last">
+
+      <span class="location-text">Multicolored Dress with Balloon Sleeves [Options &amp; Attributes]</span>
+  
+  
+</li>
+
+  </ul>
+";s:6:"assets";a:0:{}s:8:"metaTags";a:0:{}}";

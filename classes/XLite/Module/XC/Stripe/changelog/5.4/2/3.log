@@ -1,0 +1,6 @@
+Version 5.4.2.3
+
+Fixes (2)
+2021-11-29 - [Bug] Stripe. Added a more detailed "How to use" guide. #XCB-792 #XC-Stripe
+2022-01-17 - [Bug] Stripe: The billing address of the buyer was not sent to the payment processor. Fixed. #XCB-681 #XC-Stripe
+

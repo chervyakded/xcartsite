@@ -1,0 +1,13 @@
+# vim: set ts=2 sw=2 sts=2 et:
+#
+# Data
+#
+# Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+# See https://www.x-cart.com/license-agreement.html for license details.
+
+
+XLite\Model\LanguageLabel:
+  - { name: 'The exact amount of the order will be debited from your card later.', translations: [{ code: ru, label: 'Точная сумма заказа будет списана с вашей карты позже.' }] }
+  - { name: 'Important!', translations: [{ code: ru, label: 'Важно!' }] }
+  - { name: 'xpayments-delayed-payment-info-save-new', translations: [ { code: en, label: 'We will authorize a small amount on your credit or debit card in order to attach it to this order. The amount will be released back to your card, usually within a few seconds. The exact amount of the order will be debited from your card later.' },{ code: ru, label: 'Мы спишем небольшую сумму с вашей карты чтобы привязать ее к этому заказу. Сумму будет возвращена на вашу карту, как правило в течении нескольких секунд. Точная сумма заказа будет списана с вашей карты позже.' } ] }
+  - { name: 'xpayments-delayed-payment-info-save-new-with-amount', translations: [ { code: en, label: 'We will authorize <strong>{{amount}}</strong> on your credit or debit card in order to attach it to this order. The amount will be released back to your card, usually within a few seconds. The exact amount of the order will be debited from your card later.' },{ code: ru, label: 'Мы спишем {{amount}} с вашей карты чтобы привязать ее к этому заказу. Сумму будет возвращена на вашу карту, как правило в течении нескольких секунд. Точная сумма заказа будет списана с вашей карты позже.' } ] }

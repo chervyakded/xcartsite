@@ -1,0 +1,7 @@
+Version 5.4.2.9
+
+Fixes (3)
+2021-09-09 - [Bug] Product Variants. Incorrect text was shown on the variants page after removing a product from an attributes class. Fixed. #XCB-778 #XC-ProductVariants
+2021-09-09 - [Bug] Buy button + Product Variants + Sale. Error when creating a Buy button for a product with variants. Fixed. #XCB-479 #XC-ProductVariants
+2021-10-18 - [Bug] Cost Price. Gross Profit was calculated incorrectly. Fixed. #XCB-415 #QSL-CostPrice #XC-ProductVariants
+

@@ -1,0 +1,31 @@
+1681905729
+s:2641:"O:34:"XLite\Core\View\DTO\RenderedWidget":3:{s:7:"content";s:2531:"
+<div class="block block-block block-recently-viewed">
+      <h3>Recently viewed</h3>
+    <div class="content">
+<div class="items-list items-list-products recently-viewed-products center" data-widget-arguments="{&quot;sortBy&quot;:&quot;translations.name&quot;,&quot;sortOrder&quot;:&quot;asc&quot;,&quot;displayMode&quot;:&quot;grid&quot;}">
+  <script type="text/x-cart-data">
+{"widget_class":"XLite\\Module\\CDev\\ProductAdvisor\\View\\RecentlyViewed","widget_target":"","widget_params":[],"listenToHash":false,"listenToHashPrefix":"","replaceState":false,"replaceStatePrefix":""}
+</script>
+
+      
+  
+
+
+<div class="products">
+
+      <ul class="products-grid grid-list">
+              <li class="product-cell box-product">
+    
+          __dynamic_widget_placeholder__1672_YToyOntzOjU6ImNsYXNzIjtzOjI3OiJYTGl0ZVxWaWV3XFByb2R1Y3RcTGlzdEl0ZW0iO3M6NjoicGFyYW1zIjtzOjExNzY6ImE6MTQ6e3M6MTA6ImlzRXhwb3J0ZWQiO2I6MDtzOjg6InRlbXBsYXRlIjtzOjQwOiJtb2R1bGVzL0NEZXYvUHJvZHVjdEFkdmlzb3IvcHJvZHVjdC50d2lnIjtzOjg6Im1ldGFkYXRhIjthOjA6e31zOjU6Im1vZGVzIjthOjA6e31zOjk6InByb2R1Y3RJZCI7aTo2O3M6OToiaWNvbldpZHRoIjtpOjEyMDtzOjEwOiJpY29uSGVpZ2h0IjtpOjEyMDtzOjE5OiJwcm9kdWN0Vmlld0xpc3ROYW1lIjtzOjQwOiJpdGVtc0xpc3QucHJvZHVjdC5ncmlkLmN1c3RvbWVyLnJlY2VudGx5IjtzOjExOiJkaXNwbGF5TW9kZSI7czo0OiJncmlkIjtzOjIwOiJpdGVtTGlzdFdpZGdldFRhcmdldCI7czowOiIiO3M6MzA6InByb2R1Y3RTdG9ja0F2YWlsYWJpbGl0eVBvbGljeSI7Qzo1MDoiWExpdGVcTW9kZWxcUHJvZHVjdFxQcm9kdWN0U3RvY2tBdmFpbGFiaWxpdHlQb2xpY3kiOjEzMTp7YTo0OntzOjEwOiJwcm9kdWN0X2lkIjtpOjY7czoxNDoicHJvZHVjdF9hbW91bnQiO2k6MTAwMDtzOjI1OiJwcm9kdWN0X2ludmVudG9yeV9lbmFibGVkIjtiOjE7czoyMjoicHJvZHVjdF9kZWZhdWx0X2Ftb3VudCI7aToxMDAwO319czoyNzoicHJvZHVjdEVudGl0eVZlcnNpb25GZXRjaGVyIjtDOjU1OiJYTGl0ZVxDb3JlXE1vZGVsXEVudGl0eVZlcnNpb25cQnVsa0VudGl0eVZlcnNpb25GZXRjaGVyIjoxMzE6e2E6NTp7aTowO3M6MTk6IlhMaXRlXE1vZGVsXFByb2R1Y3QiO2k6MTthOjE6e2k6MDtpOjY7fWk6MjtzOjE5OiJYTGl0ZVxNb2RlbFxQcm9kdWN0IjtpOjM7czoxMToieGNfcHJvZHVjdHMiO2k6NDtzOjEwOiJwcm9kdWN0X2lkIjt9fXM6MjA6Iml0ZW1MaXN0UmVhZGFibGVOYW1lIjtPOjI4OiJYTGl0ZVxDb3JlXFRyYW5zbGF0aW9uXExhYmVsIjo1OntzOjM1OiIAWExpdGVcQ29yZVxUcmFuc2xhdGlvblxMYWJlbABsYWJlbCI7czoxNToiUmVjZW50bHkgdmlld2VkIjtzOjQwOiIAWExpdGVcQ29yZVxUcmFuc2xhdGlvblxMYWJlbABwYXJhbWV0ZXJzIjthOjA6e31zOjM0OiIAWExpdGVcQ29yZVxUcmFuc2xhdGlvblxMYWJlbABjb2RlIjtOO3M6MzQ6IgBYTGl0ZVxDb3JlXFRyYW5zbGF0aW9uXExhYmVsAHR5cGUiO047czo1MzoiAFhMaXRlXENvcmVcVHJhbnNsYXRpb25cTGFiZWwARXhlY3V0ZUNhY2hlZFRyYWl0Q2FjaGUiO2E6MDp7fX1zOjE2OiJnYVBvc2l0aW9uT25MaXN0IjtpOjE7fSI7fQ==
+    
+        </li>
+                </ul>
+  
+</div>
+
+    
+  </div>
+</div>
+</div>
+";s:6:"assets";a:0:{}s:8:"metaTags";a:0:{}}";

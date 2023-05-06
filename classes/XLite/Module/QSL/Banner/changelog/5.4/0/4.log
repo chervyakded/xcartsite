@@ -1,0 +1,4 @@
+Version 5.4.0.4
+
+Minor style fix: admin svg path color, content styles in customer area (HTML banners);
+Bug#51893 - Banner system DevTools failed to load SourceMap warning;

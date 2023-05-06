@@ -1,0 +1,5 @@
+Version 5.4.3.2
+
+Fixes (1)
+2021-07-10 - [Bug] JavaScript error on category pages and the home page on the storefront after connecting to Facebook. Fixed. #XCB-529 #XC-FacebookMarketing
+

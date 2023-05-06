@@ -1,0 +1,4 @@
+Version 5.4.0.2
+
+Bug#51778 - Banner with "Standard Top" & "Standard Bottom" location do not show up on product page;
+Bug#51756 - Banner with only height defined dissappears on mobile; Banner with a single slide don't show up;

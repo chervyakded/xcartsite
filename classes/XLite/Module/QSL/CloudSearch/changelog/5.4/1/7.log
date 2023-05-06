@@ -1,0 +1,3 @@
+Version 5.4.1.7
+
+[Improvement] Consider "Available for backorder/preorder" products as "In Stock" in availability filter

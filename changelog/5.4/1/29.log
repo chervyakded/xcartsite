@@ -1,0 +1,10 @@
+Version 5.4.1.29
+
+Fixes (6)
+2021-05-21 - [Bug] On mobile, the keyboard was opened when clicking on the line with an attribute name on the product details page. Fixed. #XCB-510 #CDev-Core #XC-ProductVariants #XC-CrispWhiteSkin
+2021-05-24 - [Bug] Disabled coupon add-on issue: distributeDiscount method error when saving the order. Fixed. #XCB-498 #CDev-Core
+2021-05-26 - [Bug] A copy of the vendor profile was created when opening the shipping methods page. Fixed. #XCB-487 #CDev-Core
+2021-05-21 - [Bug] The "category doesn't exist" warning message could be displayed on a second import for categories successfully created during a first import. Fixed.  #XCB-484 #CDev-Core
+2021-05-21 - [Bug] Performance improvement for loading a home page with a large number of categories and Clean URLs enabled. #XCB-463 #CDev-Core #CDev-Sale #QSL-FlyoutCategoriesMenu #XC-ProductVariants
+2021-05-31 - [Bug] The payment methods list in the "All payment methods" popup was displayed incorrectly if choosing to show 10/15/20 per page. Fixed. #XCB-391 #CDev-Core
+

@@ -1,0 +1,8 @@
+Version 5.4.2.15
+
+Fixes (4)
+2021-05-21 - [Bug] On mobile, the keyboard was opened when clicking on the line with an attribute name on the product details page. Fixed. #XCB-510 #CDev-Core #XC-ProductVariants #XC-CrispWhiteSkin
+2021-05-21 - [Bug] Segment. Add to cart was not working. Console errors on the Home page. Fixed. #XCB-387 #QSL-Segment #XC-CrispWhiteSkin
+2021-05-31 - [Bug] Adjusted the position of the label "Including VAT" in grid view. #XCB-359 #XC-CrispWhiteSkin
+2021-05-04 - [Bug] Avatax vs OPC. Layout issues related to displaying the Check address button. Fixed, #XCB-314 #XC-AvaTax #XC-CrispWhiteSkin
+

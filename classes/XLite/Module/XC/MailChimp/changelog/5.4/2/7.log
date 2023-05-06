@@ -1,0 +1,6 @@
+Version 5.4.2.7
+
+Fixes (2)
+2021-08-05 - [Bug] Mailchimp. Changed the timezone for dates to UTC when sending orders to Mailchimp. #XCB-610 #XC-MailChimp
+2021-08-03 - [Bug] An error saying "Can't subscribe you right now. Try later." was displayed on the storefront if trying to subscribe to newsletter in a store with a large number of Mailchimp subscriptions. Fixed. #XCB-545 #XC-MailChimp #XC-NewsletterSubscriptions
+

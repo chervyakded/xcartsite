@@ -1,0 +1,5 @@
+Version 5.4.1.14
+
+Fixes (1)
+2021-06-03 - [Bug] Fixed some errors and page freezing when switching to the different variants of a product with Template Editor opened. #XCB-384 #XC-ThemeTweaker
+

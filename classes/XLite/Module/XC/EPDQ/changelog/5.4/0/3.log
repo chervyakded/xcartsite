@@ -1,0 +1,5 @@
+Version 5.4.0.3
+
+Fixes (1)
+2022-07-20 - [Bug]   Barclaycard ePDQ e-Commerce didn't process a transaction containing the "ã or é" symbols in the address or name fields.Fixed #XCB-1258 #XC-EPDQ
+

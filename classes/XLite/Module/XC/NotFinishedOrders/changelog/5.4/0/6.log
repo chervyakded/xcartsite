@@ -1,0 +1,6 @@
+Version 5.4.0.6
+
+Fixes (2)
+2021-12-22 - [Bug] Sometimes orders could not be accessed using the order links in the Payment declined notification messages. Fixed. Now in such cases the links point to transactions. #XCB-917 #XC-NotFinishedOrders
+2022-01-17 - [Bug] NFO. If adjusting the setting "Time to use the order for future attempts (days)" to 0, the NFO order got an incorrect date. Fixed. #XCB-195 #XC-NotFinishedOrders
+

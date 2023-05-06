@@ -1,0 +1,6 @@
+Version 5.4.2.8
+
+Fixes (2)
+2021-12-01 - [Bug] Mailchimp. For a guest customer (anonymous customer), the first Abandoned cart was sent to Mailchimp only after changing the shipping method at checkout. Fixed. #XCB-837 #XC-MailChimp
+2021-11-17 - [Bug] Mailchimp. <script defer id="mcjs"> could not be validated in validator.w3.org. Fixed. #XCB-549 #XC-MailChimp
+

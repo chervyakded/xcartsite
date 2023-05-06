@@ -1,0 +1,4 @@
+Version 5.4.2.12
+
+Fixes (1)
+2022-04-19 - [Bug] Product Variants. Issues related to the activation and deactivation of Inventory tracking. Fixed. #XCB-1136 #XC-ProductVariants

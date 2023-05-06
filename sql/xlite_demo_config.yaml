@@ -1,0 +1,25 @@
+# vim: set ts=2 sw=2 sts=2 et:
+#
+# Demo store
+#
+# Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+# See https://www.x-cart.com/license-agreement.html for license details.
+
+XLite\Model\Config:
+  - { name: shop_closed, category: Internal, translations: [{ code: en, option_name: 'Close the shop temporarily (not available in Demo store)' }] }
+  - { name: customer_security, category: Security, value: N }
+  - { name: location_address, category: Company, value: '*Your company address*' }
+  - { name: location_state, category: Company, value: 576 }
+  - { name: location_city, category: Company, value: 'New York' }
+  - { name: location_zipcode, category: Company, value: '10001' }
+  - { name: company_name, category: Company, value: '*Your company name*' }
+  - { name: company_phone, category: Company, value: '(555) 555-5555' }
+  - { name: company_fax, category: Company, value: '' }
+  - { name: anonymous_state, category: Shipping, value: 547 }
+  - { name: anonymous_zipcode, category: Shipping, value: '90001' }
+  - { name: anonymous_city, category: Shipping, value: 'Los Angeles' }
+  - { name: time_zone, category: General, value: Europe/Moscow }
+  - { name: order_number_counter, category: General, value: 6 }
+  - { name: checkout_type, category: General, value: 'fast-lane' }
+  - { name: layout_type_home, category: Layout, value: 'one' }
+  - { name: isCloudFiltersEnabled, category: QSL\CloudSearch, value: true }

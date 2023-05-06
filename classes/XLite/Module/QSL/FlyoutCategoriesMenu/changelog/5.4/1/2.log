@@ -1,0 +1,5 @@
+Version 5.4.1.2
+
+Fixes (1)
+2021-05-21 - [Bug] Performance improvement for loading a home page with a large number of categories and Clean URLs enabled. #XCB-463 #CDev-Core #CDev-Sale #QSL-FlyoutCategoriesMenu #XC-ProductVariants
+

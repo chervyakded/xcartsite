@@ -1,0 +1,6 @@
+Version 5.4.2.5
+
+Fixes (2)
+2021-10-13 - [Bug] Products without categories were not shown in the Sale block. The sorting of products in promo blocks could change after making changes to categories. Fixed. #XCB-817 #CDev-Sale #CDev-Bestsellers #CDev-ProductAdvisor
+2021-09-16 - [Bug] MV. Vendor had a link to the page admin.php?target=cache_management which was unavailable to them (Access denied).  Removed the link. #XCB-448 #CDev-Sale #XC-MultiVendor
+

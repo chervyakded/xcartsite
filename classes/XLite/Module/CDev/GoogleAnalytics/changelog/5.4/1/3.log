@@ -1,0 +1,5 @@
+Version 5.4.1.3
+
+Fixes (1)
+2021-05-06 - [Bug] Add-ons extending the Vue component in FLC were removing the changes made by other add-ons. Fixed. #XCB-488 #CDev-GoogleAnalytics #XC-SofortBanking #XC-MailChimp
+

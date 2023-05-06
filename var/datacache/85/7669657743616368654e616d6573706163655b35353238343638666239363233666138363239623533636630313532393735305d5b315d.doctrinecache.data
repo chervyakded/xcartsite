@@ -1,0 +1,33 @@
+1681905786
+s:673:"O:34:"XLite\Core\View\DTO\RenderedWidget":3:{s:7:"content";s:564:"<ul class="breadcrumb">
+      
+<li class="location-node">
+    <a href="" class="location-title home-link">Home</a>
+</li>
+
+      
+<li class="location-node">
+
+      <a href="beauty-and-health/" class="location-title"><span>Beauty &amp; Health</span></a>
+  
+  
+</li>
+
+      
+<li class="location-node">
+
+      <a href="beauty-and-health/healthy-food-and-snacks/" class="location-title"><span>Healthy Food &amp; Snacks</span></a>
+  
+  
+</li>
+
+      
+<li class="location-node last">
+
+      <span class="location-text">Blue &amp; Green Matcha</span>
+  
+  
+</li>
+
+  </ul>
+";s:6:"assets";a:0:{}s:8:"metaTags";a:0:{}}";

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="106px" viewBox="0 0 98 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Standard bottom banner</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(49.000000, 52.600000) scale(1, -1) translate(-49.000000, -52.600000) translate(0.000000, 0.100000)">
+            <polygon id="Right-column" fill="#EDEDED" points="81 20.0000168 89.5 20.0000168 98 20.0000168 98 52.0600182 98 84.1200195 89.5 84.1200195 81 84.1200195 81 52.0600182"></polygon>
+            <polygon id="left-column" fill="#EDEDED" points="0 52.0600182 0 20.0000168 8.5 20.0000168 17 20.0000168 17 52.0600182 17 84.1200195 8.5 84.1200195 0 84.1200195"></polygon>
+            <polygon id="content" fill="#EDEDED" points="22.7690829 52.0600182 22.7690829 20.0000168 49 20.0000168 75.2309171 20.0000168 75.2309171 52.0600182 75.2309171 84.1200195 49 84.1200195 22.7690829 84.1200195"></polygon>
+            <polygon id="header" fill="#EDEDED" points="0 96.6200195 0 89.1200195 49 89.1200195 98 89.1200195 98 96.6200195 98 104.12002 49 104.12002 0 104.12002"></polygon>
+            <polygon id="footer" fill="#EDEDED" points="0 7.5 0 0 49 0 98 0 98 7.5 98 15 49 15 0 15"></polygon>
+            <polygon id="banner" fill="#F78601" points="25 29.5 25 22 49 22 73 22 73 29.5 73 37 49 37 25 37"></polygon>
+        </g>
+    </g>
+</svg>

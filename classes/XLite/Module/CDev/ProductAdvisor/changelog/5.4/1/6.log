@@ -1,0 +1,5 @@
+Version 5.4.1.6
+
+Fixes (1)
+2021-11-24 - [Bug] Sorting was not working on the cart.php?target=new_arrivals page. Fixed. #XCB-882 #CDev-Core #CDev-ProductAdvisor
+

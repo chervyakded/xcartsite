@@ -1,0 +1,5 @@
+Version 5.4.0.8
+
+Fixes (1)
+2021-09-10 - [Bug] Geolocation. An incorrect name was used for a "Default geolocation provider" setting value. Fixed. #XCB-401 #XC-Geolocation
+

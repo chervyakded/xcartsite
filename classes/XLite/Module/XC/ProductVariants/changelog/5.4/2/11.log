@@ -1,0 +1,4 @@
+Version 5.4.2.11
+
+Fixes (1)
+2022-03-10 - [Bug] The "out of stock" label was shown with inventory tracking disabled. Fixed. #XCB-993 #XC-ProductVariants

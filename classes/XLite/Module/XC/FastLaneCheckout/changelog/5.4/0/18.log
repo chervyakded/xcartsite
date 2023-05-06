@@ -1,0 +1,6 @@
+Version 5.4.0.18
+
+Improvements (2)
+2021-08-23 - [Task] Adjusted the position of the "I accept the Terms & Conditions" checkbox. The checkbox is now displayed above "Place order". Added a warning message "You have to accept terms & conditions" (is shown if clicking "Place order" with the checkbox unchecked). #XCB-772 #CDev-Core #XC-FastLaneCheckout
+2021-09-01 - [Story] Fixed accessibility Google score for the Customer area. #ECOM-620 #CDev-Core #XC-FastLaneCheckout #XC-CrispWhiteSkin
+

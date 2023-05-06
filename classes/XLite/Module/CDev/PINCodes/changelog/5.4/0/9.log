@@ -1,0 +1,5 @@
+Version 5.4.0.9
+
+Fixes (1)
+2022-01-11 - [Bug] After enabling pin codes, the Inventory tracking and Quantity in stock fields in the "Info" and "Inventory tracking" tabs of the product details page in the Admin area are now disabled. #XCB-450 #CDev-Core #CDev-PINCodes
+

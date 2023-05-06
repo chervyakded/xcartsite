@@ -1,0 +1,6 @@
+Version 5.4.2.2
+
+Improvements (2)
+2021-10-13 - [Task] Updated the list of countries for which payment methods are supported. #XCB-811 #CDev-AuthorizeNet #CDev-Paypal #CDev-TwoCheckout #XC-WorldpayHPP #XC-SagePay #XC-PayFort #XC-OgoneEcommerce #XC-Stripe #XC-VirtualMerchant
+2021-09-15 - [Task] Stripe. Added Alipay, GrabPay and FPX payment methods. #XCB-807 #XC-Stripe
+

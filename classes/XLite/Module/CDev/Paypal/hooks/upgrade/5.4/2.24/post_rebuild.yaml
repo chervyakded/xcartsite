@@ -1,0 +1,11 @@
+# vim: set ts=2 sw=2 sts=2 et:
+#
+# Data
+#
+# Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+# See https://www.x-cart.com/license-agreement.html for license details.
+
+XLite\Model\LanguageLabel:
+  -
+    name: 'PayPal checkout and PayPal express checkout (legacy) / PayPal Payments Advanced are not able to work together.'
+    translations: [{ code: en, label: 'PayPal Checkout and PayPal Express Checkout (legacy) / PayPal Payments Advanced / PayPal for Marketplace are not compatible and cannot be enabled at the same time.' }]

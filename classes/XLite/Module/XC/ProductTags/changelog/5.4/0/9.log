@@ -1,0 +1,5 @@
+Version 5.4.0.9
+
+Fixes (1)
+2021-07-28 - [Bug] Product list pagination errors on the storefront in some cases. Fixed. #XCB-393 #CDev-Core #XC-ProductTags
+

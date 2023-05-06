@@ -1,0 +1,5 @@
+Version 5.4.2.24
+
+Fixes (1)
+2022-01-17 - [Bug] It was possible to enable several incompatible PayPal payment methods at the same time. Fixed. #XCB-357 #CDev-Paypal #QSL-EBay
+

@@ -1,0 +1,6 @@
+Version 5.4.2.10
+
+Fixes (2)
+2021-12-24 - [Bug] Product Variants. The button "Add to cart" was visible before the Arrival date. Fixed. #XCB-933 #XC-ProductVariants
+2022-01-17 - [Bug] Order reports. Reports did not show product variants. Fixed. Added a new column - variantID - to product-report. #XCB-911 #XC-ProductVariants #QSL-OrderReports
+

@@ -1,0 +1,5 @@
+Version 5.4.1.1
+
+Fixes (1)
+2021-11-09 - [Bug] Layout Editor. After disabling the "Shop by" blocks were all named the same: "Layout block". Fixed. #XCB-857 #QSL-ShopByBrand #QSL-Make #QSL-Banner
+

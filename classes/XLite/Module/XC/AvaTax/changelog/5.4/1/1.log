@@ -1,0 +1,5 @@
+Version 5.4.1.1
+
+Improvements (1)
+2020-11-11 - [Story] Added a new setting for the add-on: "“Display taxes as a summary"; when this setting is enabled, the cart & checkout tax display provides a summary of sub-taxes (as opposed to displaying each sub-tax individually). #XCC-732 #XC-AvaTax
+

@@ -1,0 +1,5 @@
+Version 5.4.2.16
+
+Fixes (1)
+2021-08-05 - [Bug] Layout issues related to displaying color swatches on the detail page with a large number of attributes. Fixed. #XCB-693 #QSL-ColorSwatches #XC-CrispWhiteSkin
+

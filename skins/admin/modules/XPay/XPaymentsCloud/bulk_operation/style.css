@@ -1,0 +1,15 @@
+/* vim: set ts=2 sw=2 sts=2 et: */
+
+.bulk-operation-progress-box .bulk-operation-progress {
+  width: 200px;
+  float: left;
+}
+
+.bulk-operation-progress-box .bulk-operation-progress .progress {
+  margin-bottom: 0;
+}
+
+.bulk-operation-progress-box .bulk-operation-message {
+  display: inline-block;
+  margin: 0 12px;
+}

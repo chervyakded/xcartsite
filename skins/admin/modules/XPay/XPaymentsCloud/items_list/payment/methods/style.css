@@ -1,0 +1,18 @@
+/* vim: set ts=2 sw=2 sts=2 et: */
+
+/**
+ * CSS classes for X-Payments Cloud methods
+ *
+ * Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+ * See https://www.x-cart.com/license-agreement.html for license details.
+ */
+
+.payment-conf .box .content .items-list.methods .cell[data-module-name="XPay_XPaymentsCloud"] .payment-method-line .icon img
+{
+  max-height: 80%;
+}
+
+.xpayments-wallet-method .right-actions .separator
+{
+  visibility: hidden;
+}

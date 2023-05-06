@@ -1,0 +1,36 @@
+# vim: set ts=2 sw=2 sts=2 et:
+#
+# Demo store
+#
+# Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+# See https://www.x-cart.com/license-agreement.html for license details.
+
+XLite\Model\Profile:
+  - login: bit-bucket@example.com
+    password: 084e0343a0486ff05530df6c705c8bb4
+    anonymous: 1
+    cms_profile_id: 0
+    addresses:
+      - is_billing: true
+        is_shipping: true
+        state: { country_code: US, code: OK }
+        country: { code: US }
+        addressFields :
+          - addressField: { serviceName: title }
+            value : 'Mr.'
+          - addressField: { serviceName: firstname }
+            value: Guest
+          - addressField: { serviceName: lastname }
+            value: Guest
+          - addressField: { serviceName: phone }
+            value: '0123456789'
+          - addressField: { serviceName: street }
+            value: '51 apt, 87 street'
+          - addressField: { serviceName: city }
+            value: Edmond
+          - addressField: { serviceName: state_id }
+            value: 580
+          - addressField: { serviceName: country_code }
+            value: US
+          - addressField: { serviceName: zipcode }
+            value: '73003'

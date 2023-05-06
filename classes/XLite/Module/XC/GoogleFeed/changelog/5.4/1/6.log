@@ -1,0 +1,5 @@
+Version 5.4.1.6
+
+Fixes (1)
+2021-10-07 - [Bug] A generated Google Feed xml file now contains the correct UPC/ISBN values for product variants. #XCB-822 #XC-GoogleFeed
+

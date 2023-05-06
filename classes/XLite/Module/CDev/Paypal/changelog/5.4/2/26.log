@@ -1,0 +1,5 @@
+Version 5.4.2.26
+
+Fixes (1)
+2022-07-12 - [Bug] The Place Order button's text error occurred at checkout with the PayPal Checkout add-on enabled. Fixed.  #XCB-1377 #CDev-Paypal
+

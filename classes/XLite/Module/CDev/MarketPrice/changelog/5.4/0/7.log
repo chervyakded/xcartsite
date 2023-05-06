@@ -1,0 +1,5 @@
+Version 5.4.0.7
+
+Fixes (1)
+2021-09-07 - [Bug] Some rounded numbers were processed incorrectly by the Market Price add-on. Fixed. #XCB-459 #CDev-MarketPrice
+

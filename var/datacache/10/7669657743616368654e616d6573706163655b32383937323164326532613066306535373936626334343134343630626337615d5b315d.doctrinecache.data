@@ -1,0 +1,98 @@
+1682506925
+s:2544:"O:34:"XLite\Core\View\DTO\RenderedWidget":3:{s:7:"content";s:2434:"
+<div class="block block-block block-top-categories block-flyout-categories-menu">
+    <h3>Categories</h3>
+    <div class="content"><ul class="flyout-menu catalog-categories catalog-categories-tree">
+      
+  
+      <li  class="last">
+      <a href="fashion/"  class=" " title="Fashion">
+  <span class="category-label">Fashion</span>
+      <span class="icon-triangle"></span>
+  </a>
+
+              <ul class="flyout-menu sublevel">
+  
+      <li  class="leaf">
+      <a href="fashion/clothing/"  class=" " title="Clothing">
+  <span class="category-label">Clothing</span>
+  </a>
+
+          </li>
+      <li  class="leaf">
+      <a href="fashion/shoes/"  class=" " title="Shoes">
+  <span class="category-label">Shoes</span>
+  </a>
+
+          </li>
+      <li  class="leaf">
+      <a href="fashion/accessories/"  class=" " title="Accessories">
+  <span class="category-label">Accessories</span>
+  </a>
+
+          </li>
+    
+  </ul>
+
+          </li>
+      <li  class="active-trail">
+      <a href="beauty-and-health/"  class="active " title="Beauty &amp; Health">
+  <span class="category-label">Beauty &amp; Health</span>
+      <span class="icon-triangle"></span>
+  </a>
+
+              <ul class="flyout-menu sublevel">
+  
+      <li  class="leaf">
+      <a href="beauty-and-health/cosmetics/"  class=" " title="Cosmetics">
+  <span class="category-label">Cosmetics</span>
+  </a>
+
+          </li>
+      <li  class="leaf">
+      <a href="beauty-and-health/healthy-food-and-snacks/"  class=" " title="Healthy Food &amp; Snacks">
+  <span class="category-label">Healthy Food &amp; Snacks</span>
+  </a>
+
+          </li>
+    
+  </ul>
+
+          </li>
+      <li >
+      <a href="electronics/"  class=" " title="Electronics">
+  <span class="category-label">Electronics</span>
+      <span class="icon-triangle"></span>
+  </a>
+
+              <ul class="flyout-menu sublevel">
+  
+      <li  class="leaf">
+      <a href="electronics/smart-watches/"  class=" " title="Smart watches">
+  <span class="category-label">Smart watches</span>
+  </a>
+
+          </li>
+      <li  class="leaf">
+      <a href="electronics/mobile-phones/"  class=" " title="Mobile phones">
+  <span class="category-label">Mobile phones</span>
+  </a>
+
+          </li>
+      <li  class="leaf">
+      <a href="electronics/other/"  class=" " title="Other">
+  <span class="category-label">Other</span>
+  </a>
+
+          </li>
+    
+  </ul>
+
+          </li>
+    
+      
+
+  </ul>
+</div>
+</div>
+";s:6:"assets";a:0:{}s:8:"metaTags";a:0:{}}";

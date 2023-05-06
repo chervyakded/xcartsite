@@ -1,0 +1,5 @@
+Version 5.4.0.8
+
+Improvements (1)
+2021-10-13 - [Task] Updated the list of countries for which payment methods are supported. #XCB-811 #CDev-AuthorizeNet #CDev-Paypal #CDev-TwoCheckout #XC-WorldpayHPP #XC-SagePay #XC-PayFort #XC-OgoneEcommerce #XC-Stripe #XC-VirtualMerchant
+

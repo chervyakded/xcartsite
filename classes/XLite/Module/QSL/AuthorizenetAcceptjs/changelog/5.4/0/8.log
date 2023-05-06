@@ -1,0 +1,5 @@
+Version 5.4.0.8
+
+Fixes (1)
+2021-09-15 - [Bug] Authorize.Net Accept.js. Uninformative error message on Partial Refund. Fixed. #XCB-428 #QSL-AuthorizenetAcceptjs
+

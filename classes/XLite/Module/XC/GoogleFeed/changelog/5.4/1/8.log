@@ -1,0 +1,5 @@
+Version 5.4.1.8
+
+Fixes (1)
+2022-04-22 - [Bug] The feed was generated incorrectly (with duplicate product records) in stores with multiple languages. Fixed. #XCB-1000 #XC-GoogleFeed
+

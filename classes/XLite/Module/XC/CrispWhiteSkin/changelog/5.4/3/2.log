@@ -1,0 +1,16 @@
+Version 5.4.3.2
+
+Improvements (1)
+2021-11-24 - [Story] Added the ability to add a logo on mobile. #ECOM-953 #CDev-Core #CDev-SimpleCMS #XC-DelicatePinkSkin #XC-CrispWhiteSkin #XC-DewyGreenSkin #XC-SpaceVioletSkin #XC-SoftBlueSkin #XC-MarbleGreySkin #XC-ForestGreenSkin #XC-DarkSparkleSkin #XC-Auto
+
+Fixes (9)
+2021-12-14 - [Bug] Layout issues related to displaying the product list in Grid mode. Fixed. #XCB-932 #XC-CrispWhiteSkin #XC-ForestGreenSkin
+2021-12-20 - [Bug] The placement of the "View All" link on category pages was incorrect (Crisp White). Fixed. #XCB-889 #XC-CrispWhiteSkin
+2021-11-10 - [Bug] On mobile, the "Select your vehicle" block sometimes overlaps with the breadcrumbs on some pages. Fixed. #XCB-886 #XC-CrispWhiteSkin
+2021-12-03 - [Bug] Fixed some text in the "My vehicle" popup in Crisp White skin.  #XCB-885 #QSL-Make #XC-CrispWhiteSkin
+2021-11-05 - [Bug] Layout issues related to displaying the Shop by Brand block on category pages. Fixed. #XCB-868 #QSL-ShopByBrand #QSL-Make #XC-CrispWhiteSkin #XC-Auto
+2021-12-16 - [Bug] Minor fix to the design of the selector allowing to choose the number of items to show on the page. #XCB-853 #XC-CrispWhiteSkin
+2021-11-12 - [Bug] Issues related to image preview not being displayed for some product images. Fixed. #XCB-841 #XC-CrispWhiteSkin
+2022-01-12 - [Bug] Adjusted the padding between category images on the Storefront homepage in the three-column mode. #XCB-839 #XC-CrispWhiteSkin
+2021-12-14 - [Bug] Issues displaying product names and prices for products in the left column on iPad. Fixed. #XCB-767 #XC-CrispWhiteSkin
+

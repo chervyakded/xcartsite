@@ -1,0 +1,9 @@
+Version 5.4.1.36
+
+Improvements (1)
+2022-04-11 - [Task] Minor update for the Orders -> Accounting page. #XCB-1075 #CDev-Core
+
+Fixes (2)
+2022-06-21 - [Bug] Incorrect print styles on the first page load. Fixed. #XCB-1293 #CDev-Core
+2022-07-08 - [Bug] An incorrect image could be displayed in an email notification if there were more than one image files using the same file name. Fixed. #XCB-1288 #CDev-Core
+

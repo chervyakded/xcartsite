@@ -1,0 +1,5 @@
+Version 5.4.2.2
+
+Fixes (1)
+2021-04-28 - [Bug] Wholesale. The price was shown incorrectly. Fixed. #XCB-417 #CDev-Wholesale
+

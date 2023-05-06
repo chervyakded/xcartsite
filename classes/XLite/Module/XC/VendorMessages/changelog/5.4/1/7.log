@@ -1,0 +1,5 @@
+Version 5.4.1.7
+
+Fixes (1)
+2021-08-17 - [Bug] Incorrect order number in the New order message (multivendor, warehouse). Fixed. #XCB-773 #XC-VendorMessages
+

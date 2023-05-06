@@ -1,0 +1,5 @@
+Version 5.4.2.6
+
+Improvements (1)
+2021-05-18 - [Escalation] Orders were not created in Mailchimp. Fixed. #XCB-438 #XC-MailChimp
+

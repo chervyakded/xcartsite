@@ -1,0 +1,5 @@
+Version 5.4.0.4
+
+Fixes (1)
+2020-01-06 - [Bug] Layout issue related to the field "Specify US states" on the Avatax addon settings page. Fixed. #BUG-7781 (Pavel Veselovsky) #AvaTax
+

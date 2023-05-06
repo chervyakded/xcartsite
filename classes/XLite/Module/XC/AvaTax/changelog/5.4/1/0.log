@@ -1,0 +1,5 @@
+Version 5.4.1.0
+
+Fixes (1)
+2020-01-24 - [Bug] Incorrect calculation of admin commission/vendor income with the addons TaxJar or Avatax enabled. Fixed. #BUG-8025 #MultiVendor #AvaTax #TaxJar
+

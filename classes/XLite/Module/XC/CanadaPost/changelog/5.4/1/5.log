@@ -1,0 +1,5 @@
+Version 5.4.1.5
+
+Fixes (1)
+2021-05-26 - [Bug] Canada Post vs Product Variants. Default Weight info was not pulled into shipment. Fixed. #XCB-493 #XC-CanadaPost
+

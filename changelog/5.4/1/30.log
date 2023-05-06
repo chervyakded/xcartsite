@@ -1,0 +1,10 @@
+Version 5.4.1.30
+
+Improvements (1)
+2021-07-07 - [Story] Added a new setting "Enable EU import subtotal thresholds" for the add-on 'VAT' and the ability to set a Min/Max subtotal.  #ECOM-359 #CDev-Core #CDev-VAT
+
+Fixes (3)
+2021-07-12 - [Bug] On mobile, menu links to categories did not work. Fixed.  #XCB-618 #CDev-Core
+2021-07-07 - [Bug] It was not possible to place an order with shipping based on discounted subtotal. Fixed. #XCB-564 #CDev-Core
+2021-07-08 - [Bug] Review request notification messages were always formed in the default language. Fixed. #XCB-562 #CDev-Core
+

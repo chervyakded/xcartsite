@@ -1,0 +1,5 @@
+Version 5.4.1.4
+
+Fixes (1)
+2021-05-24 - [Bug] Too many database requests with a large number of menu items. Optimized. #XCB-512 #CDev-SimpleCMS
+

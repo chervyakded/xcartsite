@@ -1,0 +1,303 @@
+/* vim: set ts=2 sw=2 sts=2 et: */
+
+/**
+ * Common styles
+ *
+ * Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+ * See https://www.x-cart.com/license-agreement.html for license details.
+ */
+
+.product-quicklook .product-image-gallery li{
+  opacity: 1 !important;
+}
+
+.sidebar {
+  .bannerBox {
+    float: none;
+    clear: both;
+  }
+}
+
+.banner_container{
+  .bs-fix-div{
+    display: inline-block;
+  }
+}
+
+.banner_container,
+.parallax-banner-container {
+  margin: 0 auto;
+  position: relative;
+  max-width: 100%;
+
+  .banner_item,
+  .parallax-item {
+    position: relative;
+
+    .backgroundImage {
+      display: block;
+      height: 100%;
+      width: 100%;
+
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+    }
+
+    .textContainer {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      font-size: @font-size-base;
+      padding: 20px;
+
+      .mainText {
+        line-height: normal;
+        font-size: 1.2em;
+
+        @media (min-width: 768px) {
+          font-size: 2em;
+        }
+
+        @media (min-width: 992px) {
+          font-size: 3em;
+        }
+
+      }
+
+      .addText {
+        font-size: 1em;
+        line-height: normal;
+
+        @media (min-width: 768px) {
+          font-size: 1.2em;
+        }
+
+        @media (min-width: 992px) {
+          font-size: 1.5em;
+        }
+
+      }
+
+      .action-button {
+        button {
+          width: fit-content;
+          margin: (@rhythmic-unit / 2) (@rhythmic-unit * 1.25);
+        }
+      }
+    }
+  }
+}
+
+.banner-system,
+.bannerBox {
+  margin: 0 auto;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  .banner_item,
+  .parallax-item {
+    height: auto;
+    max-width: 100%;
+  }
+}
+
+.bannerBox {
+  clear: both;
+  width: 100%;
+  margin-bottom: 40px;
+
+  &.StandardBottom-box,
+  &.WideTop-box,
+  &.WideBottom-box {
+    margin-bottom: 0;
+  }
+
+  &.WideTop-box{
+    @media(max-width: @screen-xs-max){
+      margin-bottom: 40px;
+    }
+  }
+}
+
+.bannerBox .banner_container > div {
+  z-index: 1;
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+
+  &.banner-system-navigation {
+    height: auto;
+    margin-bottom: 0;
+  }
+
+  .banner_item {
+    visibility: hidden;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    display: flex !important;
+
+    &:first-of-type:last-of-type,
+    &.cycle-slide-active {
+      visibility: visible !important;
+      overflow: hidden;
+      position: static;
+    }
+
+    > span, > a{
+      max-width: 100%;
+      max-height: 100%;
+    }
+
+    img {
+      max-width: 100%;
+      max-height: 100%;
+      height: auto;
+      width: auto;
+      margin: 0 auto;
+    }
+  }
+}
+
+.bannerBox .banner_container:not(.height-defined) > div .banner_item{
+  &:nth-child(1):not(.cycle-sentinel),
+  &:nth-child(1):nth-last-child(1) {
+    visibility: visible !important;
+    overflow: hidden !important;
+    position: static !important;
+  }
+}
+
+.banner_content {
+  overflow: auto;
+  text-align: left;
+  width: auto !important;
+  height: auto !important;
+}
+
+.bannerBox .banner_container div.banner-system-navigation {
+  text-align: center;
+  padding: 5px 0 13px;
+  line-height: 6px;
+  margin-top: -30px;
+  position: absolute;
+  width: 100%;
+  height: 30px;
+  bottom: 0;
+
+  span {
+    background: transparent;
+    border: 1px solid #f1f1f1;
+    width: 10px;
+    height: 10px;
+    margin: 1px 2px;
+    border-radius: 50%;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    overflow: hidden;
+    font-size: 0;
+
+    &:hover {
+      background: #f1f1f1;
+      width: 12px;
+      height: 12px;
+      margin: 0 1px;
+    }
+
+    &.cycle-pager-active {
+      background: #f1f1f1;
+      width: 12px;
+      height: 12px;
+      margin: 0 1px;
+    }
+  }
+}
+
+.prev_arrow,
+.next_arrow {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  z-index: 100;
+  text-decoration: none;
+  font-size: 52px;
+  line-height: 39px;
+  padding: 0 10px;
+  top: 50%;
+  margin-top: -20px;
+  color: #cccccc;
+  opacity: 0.7;
+
+  &:hover {
+    color: #666666;
+    background: #eeeeee;
+    opacity: 0.8;
+    text-decoration: none;
+  }
+
+  &:focus,
+  &:active {
+    text-decoration: none;
+  }
+}
+
+.prev_arrow{
+  float: left;
+  text-align: left;
+  left: 0;
+}
+
+.next_arrow{
+  float: right;
+  text-align: right;
+  right: 0;
+}
+
+.bannerStandardBottom {
+  float: right;
+  margin: 0 20px 20px 0;
+}
+
+
+@media (max-width: 960px) {
+  .prev_arrow,
+  .next_arrow {
+    width: 30px;
+    height: 30px;
+    margin-top: -15px;
+    font-size: 40px;
+    line-height: 29px;
+    padding: 0 5px;
+  }
+
+  .banner_container.dimensions-defined,
+  .banner_container.width-defined.height-not-defined,
+  .banner_container.dimensions-not-defined{
+    line-height: normal !important;
+    height: auto !important;
+  }
+}
+
+@media (max-width: @screen-sm-min) {
+  #content{
+    float: left;
+    width: 100%;
+  }
+}

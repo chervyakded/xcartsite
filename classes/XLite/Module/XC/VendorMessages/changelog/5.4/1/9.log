@@ -1,0 +1,6 @@
+Version 5.4.1.9
+
+Fixes (2)
+2021-11-11 - [Bug] An administrator user with appropriate "manage conversations" permission was not able to access the page to manage conversations. Fixed. #XCB-834 #XC-VendorMessages
+2021-11-17 - [Bug] Messages sent by the buyer using the "contact seller" option in the order were sent to all the email addresses specified in the "Sales department e-mails" setting. Fixed. #XCB-604 #XC-VendorMessages
+

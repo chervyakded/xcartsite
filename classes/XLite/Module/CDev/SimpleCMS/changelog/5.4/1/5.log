@@ -1,0 +1,5 @@
+Version 5.4.1.5
+
+Fixes (1)
+2021-07-11 - [Bug] After switching the language from English to Russian the menu did not get translated. Fixed. #XCB-601 #CDev-SimpleCMS
+

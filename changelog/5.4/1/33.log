@@ -1,0 +1,5 @@
+Version 5.4.1.33
+
+Fixes (1)
+2021-09-20 - [Bug] The sort order of products in the Sale, Bestsellers and New arrivals blocks on the Home page was not the same as the default sort order on the respective pages. Fixed. #XCB-812 #CDev-Core
+

@@ -1,0 +1,46 @@
+/* vim: set ts=2 sw=2 sts=2 et: */
+
+/**
+ * X-Payments Cloud - Checkout With Wallet common styles
+ *
+ * Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+ * See https://www.x-cart.com/license-agreement.html for license details.
+ */
+
+.xpayments-wallet-separator,
+.xpayments-wallet-container
+{
+  display: none;
+}
+
+.lc-minicart .items-list .buttons-row>.xpayments-wallet-container {
+  width: 100%;
+}
+
+.product-details .xpayments-wallet-separator {
+  width: 100%;
+  line-height: 10px;
+}
+.product-details .xpayments-wallet-separator span {
+  margin-right: 0!important;
+}
+
+@media (max-width: 480px) {
+  .product-details .xpayments-wallet-container {
+    width: 100%;
+  }
+}
+
+@media (min-width: 481px)
+{
+  .product-details .xpayments-wallet-separator:before,
+  .product-details .xpayments-wallet-separator:after {
+    display: none;
+  }
+
+  .product-details .xpayments-wallet-separator {
+    width: auto;
+    line-height: 40px;
+    padding: 0 15px;
+  }
+}

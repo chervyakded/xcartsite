@@ -1,0 +1,9 @@
+Version 5.4.2.21
+
+Improvements (1)
+2021-10-13 - [Task] Updated the list of countries for which payment methods are supported. #XCB-811 #CDev-AuthorizeNet #CDev-Paypal #CDev-TwoCheckout #XC-WorldpayHPP #XC-SagePay #XC-PayFort #XC-OgoneEcommerce #XC-Stripe #XC-VirtualMerchant
+
+Fixes (2)
+2021-10-28 - [Bug] Added the parameter "enable-funding" for PayPal Credit enabled. #XCB-840 #CDev-Paypal
+2021-09-09 - [Bug] PayPal. "Document is ready and element #paypal_[TOKEN] does not exist" error when adding a product to the shopping cart. Fixed. #XCB-801 #CDev-Paypal
+

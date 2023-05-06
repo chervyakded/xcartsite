@@ -1,0 +1,19 @@
+# vim: set ts=2 sw=2 sts=2 et:
+#
+# Data
+#
+# Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+# See https://www.x-cart.com/license-agreement.html for license details.
+
+XLite\Model\Payment\Method:
+  - service_name: Stripe
+    countries: [AE, AT, AU, BE, BG, BR, CA, CH, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HK, HU, IE, IN, IT, JP, LT, LU, LV, MT, MX, MY, NL, 'NO', NZ, PL, PT, RO, SE, SG, SI, SK, US]
+    settings:
+      - name: credit_card_method
+        value: 1
+      - name: alipay_method
+        value: 0
+      - name: grab_pay_method
+        value: 0
+      - name: fpx_method
+        value: 0

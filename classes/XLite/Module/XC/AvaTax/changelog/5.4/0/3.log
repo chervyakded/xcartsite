@@ -1,0 +1,4 @@
+Version 5.4.0.3
+
+Fixes (1)
+2019-06-20 - [Bug] Fatal error: "Error (code: 0): Call to a member function getShippingAddress() on null" when a product is added to cart by unregistered customer. Fixed. #BUG-7590 (Kirill Stadler) #AvaTax #TaxJar

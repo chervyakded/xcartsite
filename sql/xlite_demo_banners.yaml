@@ -1,0 +1,34 @@
+# vim: set ts=2 sw=2 sts=2 et:
+#
+# Demo store
+#
+# Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+# See https://www.x-cart.com/license-agreement.html for license details.
+
+XLite\Module\QSL\Banner\Model\Banner:
+  - title: 'Demo #1'
+    location: WideTop
+    enabled: 1
+    effect: scrollHorz
+    timeout: 4
+    delay: 1
+    home_page: 1
+    products_pages: 0
+    navigation: 1
+    bannerSlide:
+      - enabled: false
+        link: 'cart.php?target=category&category_id=6'
+        position: 50
+        image: { path: 1_2cosmentic_big.jpg, mime: image/jpeg, width: 3840, height: 884, size: 328874 }
+      - enabled: true
+        link: 'cart.php?target=category&category_id=8'
+        position: 30
+        image: { path: 1_1food_big_1.jpg, mime: image/jpeg, width: 3840, height: 884, size: 122740 }
+      - enabled: true
+        link: 'cart.php?target=category&category_id=9'
+        position: 40
+        image: { path: 1_4smart_big.jpg, mime: image/jpeg, width: 3840, height: 884, size: 122740 }
+      - enabled: true
+        link: 'cart.php?target=category&category_id=2'
+        position: 20
+        image: { path: 1_5fashion_1.jpg, mime: image/jpeg`, width: 3840, height: 884, size: 324727 }

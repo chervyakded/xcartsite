@@ -1,0 +1,5 @@
+Version 5.4.1.5
+
+Fixes (1)
+2021-10-13 - [Bug] Products without categories were not shown in the Sale block. The sorting of products in promo blocks could change after making changes to categories. Fixed. #XCB-817 #CDev-Sale #CDev-Bestsellers #CDev-ProductAdvisor
+

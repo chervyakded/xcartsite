@@ -1,0 +1,5 @@
+Version 5.4.1.2
+
+Fixes (1)
+2022-11-16 - [Bug] The "Category" setting on the banner settings page was working incorrectly. Fixed. #XCB-1229 #QSL-Banner
+

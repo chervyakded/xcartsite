@@ -1,0 +1,8 @@
+Version 5.4.2.17
+
+Improvements (1)
+2021-09-01 - [Story] Fixed accessibility Google score for the Customer area. #ECOM-620 #CDev-Core #XC-FastLaneCheckout #XC-CrispWhiteSkin
+
+Fixes (1)
+2021-09-07 - [Bug] Error related to displaying images on the product page in vertical and horizontal orientation in the mobile version of the Storefront. Fixed. #XCB-791 #XC-CrispWhiteSkin
+

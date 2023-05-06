@@ -1,0 +1,5 @@
+Version 5.4.1.7
+
+Fixes (1)
+2022-03-10 - [Bug] The attribute "shipping" is no longer added to Google products feed. #XCB-1004 #XC-GoogleFeed
+

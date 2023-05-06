@@ -1,0 +1,89 @@
+<?php
+// vim: set ts=4 sw=4 sts=4 et:
+
+/**
+ * Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+ * See https://www.x-cart.com/license-agreement.html for license details.
+ */
+
+namespace XLite\Module\XC\AvaTax\Module\XC\MultiVendor\View\Model\Profile;
+
+use Includes\Annotations\Decorator;
+use XLite\Core\Config;
+use XLite\Module\XC\MultiVendor\Main;
+use XLite\Module\XC\MultiVendor\Model\Commission;
+
+
+/**
+ * FinancialInfo
+ *
+ * @Decorator\Depend("XC\MultiVendor")
+ */
+class FinancialInfo extends \XLite\Module\XC\MultiVendor\View\Model\Profile\FinancialInfo implements \XLite\Base\IDecorator
+{
+    /**
+     * @return array
+     */
+    protected function defineTaxCalculationSchema()
+    {
+        $schema = parent::defineTaxCalculationSchema();
+
+        if ($this->isDisplayUsStatesForTaxField()) {
+            $schema += [
+                'us_tax_calculate_for' => [
+                    self::SCHEMA_CLASS => 'XLite\Module\XC\AvaTax\View\FormField\Select\AutomaticTaxCalculateType',
+                    self::SCHEMA_LABEL => 'Automatically calculate taxes for',
+                ],
+                'us_tax_states' => [
+                    self::SCHEMA_CLASS => '\XLite\Module\XC\AvaTax\View\FormField\Select\Select2\StateCodes',
+                    self::SCHEMA_LABEL => static::t('Specify US states'),
+                    self::SCHEMA_DEPENDENCY => [
+                        self::DEPENDENCY_SHOW => [
+                            'us_tax_calculate_for' => [\XLite\Module\XC\AvaTax\View\FormField\Select\AutomaticTaxCalculateType::PARAM_SPECIFIC_STATES],
+                        ],
+                    ],
+                ],
+            ];
+        }
+
+        return $schema;
+    }
+
+    /**
+     * @return bool
+     */
+    protected function isDisplayUsStatesForTaxField()
+    {
+        return !\XLite\Module\XC\MultiVendor\Main::isWarehouseMode()
+            && Config::getInstance()->XC->MultiVendor->taxes_owner === Commission::TAXES_OWNER_VENDOR;
+    }
+
+    public function getDefaultFieldValue($name)
+    {
+        switch ($name) {
+            case 'us_tax_calculate_for':
+                $value = Main::getVendorConfiguration(
+                    $this->getModelObject(),
+                    [
+                        'XC',
+                        'MultiVendor',
+                    ]
+                )->us_tax_calculate_for;
+                break;
+            case 'us_tax_states':
+                $value = Main::getVendorConfiguration(
+                    $this->getModelObject(),
+                    [
+                        'XC',
+                        'MultiVendor',
+                    ]
+                )->us_tax_states;
+                break;
+            default:
+                $value = parent::getDefaultFieldValue($name);
+                break;
+        }
+
+        return $value;
+    }
+}

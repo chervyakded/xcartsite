@@ -1,0 +1,5 @@
+Version 5.4.2.20
+
+Fixes (1)
+2021-08-25 - [Bug] PayPal Credit was enabled only for the US. Fixed. Added AU, FR, GB, DE. #XCB-794 #CDev-Core #CDev-Paypal
+

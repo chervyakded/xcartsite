@@ -1,0 +1,28 @@
+Version 5.4.1.35
+
+Improvements (4)
+2021-11-03 - [Task] Changed the protocol from http to https for the marketplace settings (url, banner_url and editions_url) in the configuration file. #XCB-844 #CDev-Core
+2021-12-16 - [Story] Updated X-Cart logos. #ECOM-1148 #CDev-Core #XC-Service
+2021-12-13 - [Story] Updated the tip for the "Terms and conditions agreement type" setting. #ECOM-1084 #CDev-Core
+2021-11-24 - [Story] Added the ability to add a logo on mobile. #ECOM-953 #CDev-Core #CDev-SimpleCMS #XC-DelicatePinkSkin #XC-CrispWhiteSkin #XC-DewyGreenSkin #XC-SpaceVioletSkin #XC-SoftBlueSkin #XC-MarbleGreySkin #XC-ForestGreenSkin #XC-DarkSparkleSkin #XC-Auto
+
+Fixes (18)
+2022-01-21 - [Bug] Removed the Automated shipping refunds tab from the Shipping page. #XCB-969 #CDev-Core #XC-MultiVendor
+2022-01-17 - [Bug] New attribute values could not be added for global attributes. Fixed. #XCB-954 #CDev-Core
+2022-01-20 - [Bug] Some issues related to edits not being applied when creating or editing attributes via the Classes & Attributes page. Fixed. #XCB-931 #CDev-Core
+2021-12-21 - [Bug] The %recipient_name% and %first_name% variables were not working in the Payment Declined notification. Fixed. #XCB-907 #CDev-Core
+2021-12-27 - [Bug] Issues related to displaying text labels with missing translations. Fixed. #XCB-904 #CDev-Core
+2021-12-21 - [Bug] Implemented deletion confirmation ("Are you sure?") on product and order lists in the Admin area. #XCB-903 #CDev-Core
+2021-11-24 - [Bug] Sorting was not working on the cart.php?target=new_arrivals page. Fixed. #XCB-882 #CDev-Core #CDev-ProductAdvisor
+2021-11-10 - [Bug] The address specified in Google Chrome settings (all the address lines) can now be used for address autocomplete during checkout. #XCB-877 #CDev-Core
+2021-11-25 - [Bug] Added restrictions on the length of passwords from 8 to 64 characters #XCB-862 #CDev-Core
+2021-11-29 - [Bug] The SKU text label was not translated to Arabic in the PDF invoice. Fixed. #XCB-835 #CDev-Core
+2021-11-25 - [Bug] A sticky panel was displayed when there were no related products. Fixed.  #XCB-785 #CDev-Core
+2022-01-17 - [Bug] The tooltips for the buttons "Clone selected" and "Delete selected" did not close after choosing to cancel the action. Fixed. #XCB-784 #CDev-Core
+2022-01-20 - [Bug] Changed the logic for deactivating the password reset link. #XCB-777 #CDev-Core
+2021-11-10 - [Bug] Removed the unused setting 'default-site-title'. #XCB-765 #CDev-Core #QSL-SEOCheck
+2021-12-14 - [Bug] Critical errors when trying to import product attribute values with only the required data (productSKU, type, name, value). Fixed. The setting "Import mode" needs to be set to "Update existing items, but skip new items". #XCB-711 #CDev-Core
+2021-11-11 - [Bug] Issues related to field focus not moving over to the next form field when using the Tab key on the Product-Specific Attributes page. #XCB-523 #CDev-Core
+2021-11-11 - [Bug] Tracking numbers and shipping addresses were displayed incorrectly in the pdf file attached to the email with tracking info. #XCB-511 #CDev-Core #QSL-PDFInvoice
+2022-01-11 - [Bug] After enabling pin codes, the Inventory tracking and Quantity in stock fields in the "Info" and "Inventory tracking" tabs of the product details page in the Admin area are now disabled. #XCB-450 #CDev-Core #CDev-PINCodes
+

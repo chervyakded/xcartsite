@@ -1,0 +1,12 @@
+version: 5.4.1.37
+type: common
+authorName: 'GoddanoKas'
+moduleName: 'ProductDetailsPageHideWeight'
+description: 'Ability to hide weight from "product details page"'
+minorRequiredCoreVersion: 0
+dependsOn: {  }
+incompatibleWith: {  }
+skins: {  }
+showSettingsForm: false
+canDisable: true
+

@@ -1,0 +1,7 @@
+Version 5.4.1.31
+
+Fixes (3)
+2021-08-05 - [Bug] Layout issues on the Export page. Fixed. #XCB-722 #CDev-Core
+2021-08-11 - [Bug] <Add to cart> error with a long (>255) value of a text area attribute. Fixed. #XCB-612 #CDev-Core
+2021-07-28 - [Bug] Product list pagination errors on the storefront in some cases. Fixed. #XCB-393 #CDev-Core #XC-ProductTags
+

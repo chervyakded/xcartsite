@@ -1,0 +1,5 @@
+Version 5.4.2.19
+
+Fixes (1)
+2021-08-02 - [Bug] "Error: Request is not well-formed, syntactically incorrect, or violates schema" when trying to pay for a product with a long product name with PayPal. Fixed. #XCB-590 #CDev-Paypal
+

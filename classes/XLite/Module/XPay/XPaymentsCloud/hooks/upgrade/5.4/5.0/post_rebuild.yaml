@@ -1,0 +1,40 @@
+# vim: set ts=2 sw=2 sts=2 et:
+#
+# Data
+#
+# Copyright (c) 2011-present Qualiteam software Ltd. All rights reserved.
+# See https://www.x-cart.com/license-agreement.html for license details.
+
+XLite\Model\Config:
+  - name: show_card_info_on_invoice_page
+    category: XPay\XPaymentsCloud
+    type: XLite\Module\XPay\XPaymentsCloud\View\FormField\Select\ShowCardInfoOnInvoicePage
+    orderby: 100
+    value: 'Y'
+    translations:
+      - code: en
+        option_name: 'Show Card Info on Invoice Page'
+
+XLite\Model\Payment\Method:
+  - service_name: XPaymentsApplePay
+    orderby: -105690
+    adminOrderby: -105690
+  - service_name: XPaymentsGooglePay
+    class: Module\XPay\XPaymentsCloud\Model\Payment\Processor\GooglePay
+    added: true
+    type: C
+    orderby: -105680
+    adminOrderby: -105680
+    translations:
+      - code: en
+        name: Google Pay
+        title: Google Pay
+        altAdminDescription: "Enable Google Pay in your checkout via X-Payments Cloud. Supported payment processors: Authorize.Net, Braintree, Chase Paymentech, CyberSource - SOAP Toolkit API, First Data Payeezy Gateway (ex- Global Gateway e4)"
+  - service_name: XPaymentsCloud
+    orderby: -103900
+    adminOrderby: -103900
+
+XLite\Model\LanguageLabel:
+  - { name: 'X is not available for your X-Payments Cloud account', translations: [ { code: en, label: '{{feature}} is not available for your X-Payments Cloud account' } ] }
+  - { name: 'Your store domain is not verified by X', translations: [ { code: en, label: 'Your store domain is not verified by {{feature}}' } ] }
+  - { name: 'No payment processors which support X are enabled in X-Payments Cloud', translations: [ { code: en, label: 'No payment processors which support {{feature}} are enabled in X-Payments Cloud' } ] }

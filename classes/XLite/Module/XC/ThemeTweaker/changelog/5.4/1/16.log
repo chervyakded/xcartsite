@@ -1,0 +1,5 @@
+Version 5.4.1.16
+
+Fixes (1)
+2021-11-29 - [Bug] Promo blocks were displayed taking into account the setting for the product list viewing mode. Fixed. #XCB-838 #XC-ThemeTweaker
+

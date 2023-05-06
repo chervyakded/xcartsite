@@ -1,0 +1,25 @@
+Version 5.4.1.34
+
+Improvements (2)
+2021-10-25 - [Story] Several performance improvements for the import process. #ECOM-877 #CDev-Core #XC-UpdateInventory #XC-MultiVendor
+2021-10-08 - [Story] Hide the “Banner Rotation“ tab on the “Front Page” page if "Banner System" is enabled. #ECOM-756 #CDev-Core #QSL-Banner
+
+Fixes (17)
+2021-10-13 - [Bug] Filters did not function properly after sorting by Amount had been performed - if more than one order status was being used. Fixed. #XCB-821 #CDev-Core
+2021-10-13 - [Bug] Fixed how DB records for order_items.discountedSubtotal are formed after recalculating Discount on the Advanced Order Management page. #XCB-820 #CDev-Core #CDev-VolumeDiscounts
+2021-10-05 - [Bug] Incorrect Canonical URL in Home page with a non-default language selected. Fixed. #XCB-814 #CDev-Core
+2021-10-07 - [Bug] The Save button on the Level info page of the Make/Model/Year add-on now becomes clickable only after a change has actually been made. #XCB-808 #CDev-Core
+2021-09-09 - [Bug] A new vendor was able to export customers and other types of data. Fixed. #XCB-780 #CDev-Core #XC-MultiVendor
+2021-09-30 - [Bug] The message about the incompatibility of the versions of an add-on and the core was not showing. Fixed. #XCB-743 #CDev-Core
+2021-09-24 - [Bug] AOM. Fatal error on opening the details of an order if sorting by Customer had been used in the Order list. Fixed. #XCB-611 #CDev-Core
+2021-09-21 - [Bug] Notice in log after downloading from storage with the title "Range". Fixed. #XCB-576 #CDev-Core
+2021-09-09 - [Bug] Clean URLs. Low Limit Warning admin notification message linked to a product on the storefront instead of the Admin area. Fixed. #XCB-574 #CDev-Core
+2021-09-20 - [Bug] Layout issues in popup after adding a text label with three or more languages enabled. Fixed. #XCB-542 #CDev-Core
+2021-09-30 - [Bug] PDF invoice was not formed in the current language. Fixed. #XCB-496 #CDev-Core #QSL-PDFInvoice
+2021-09-15 - [Bug] Issues related to skins having more than one dependencies. Fixed. #XCB-491 #CDev-Core
+2021-09-20 - [Bug] Console errors when saving the contents of the "Edit attribute values" popup. Fixed. #XCB-457 #CDev-Core
+2021-10-18 - [Bug] Changed the font size of product name on product details page. #XCB-433 #CDev-Core #XC-CrispWhiteSkin
+2021-10-18 - [Bug] Information was lost in the case of twig syntax error. Fixed. #XCB-416 #CDev-Core
+2021-09-10 - [Bug] Age Verification. JS error on the Age Verification Settings page. Fixed. #XCB-413 #CDev-Core
+2021-09-16 - [Bug] DB data of disabled custom add-ons was getting removed as a result of 5.3.6 -> 5.4.1 upgrade. Fixed. #XCB-119 #CDev-Core
+

@@ -1,0 +1,5 @@
+Version 5.4.0.6
+
+Fixes (1)
+2021-09-30 - [Bug] Featured product names from the Home page and category pages were shown as truncated in the Admin area. Fixed. #XCB-506 #CDev-FeaturedProducts
+

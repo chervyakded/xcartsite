@@ -1,0 +1,5 @@
+Version 5.4.1.4
+
+Fixes (1)
+2022-01-18 - [Bug] UPS shipping rates with negotiated rates applied were not matching UPS.com. Fixed. #XCB-918 #XC-UPS
+

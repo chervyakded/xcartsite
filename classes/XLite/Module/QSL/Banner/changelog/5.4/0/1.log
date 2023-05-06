@@ -1,0 +1,5 @@
+Version 5.4.0.1
+
+Bug#50697 - W3C validation error;
+Bug#50699 - Main and Additional slide text limit; banner box bottom margin in StandardTop location;
+Bug#51085 - Products gallery cycle2 library conflict on ajax load;
